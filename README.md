@@ -1,5 +1,4 @@
-# MotorQ Backend Assessment
-# More Torque
+# MotorQ Backend Assessment (More Torque)
 
 
 ## Introduction
